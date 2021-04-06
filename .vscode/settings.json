@@ -1,6 +1,6 @@
 {
-    "editor.fontSize": 20,
+    "editor.fontSize": 15,
     "workbench.colorTheme": "Material Theme Palenight High Contrast",
     "workbench.iconTheme": "eq-material-theme-icons-palenight",
-    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.fontSize": 15,
 }
